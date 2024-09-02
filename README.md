@@ -13,7 +13,7 @@
 
 4. `cd next_js_proj_setup`
 
-5. `python next_js_proj_setup.py` or `python3 next_js_proj_setup.py`
+5. `python nextjs_creator.py` or `python3 nextjs_creator.py`
 
 6. paste path when asked for the path
 
