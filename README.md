@@ -15,9 +15,9 @@
 
 5. `python nextjs_creator.py` or `python3 nextjs_creator.py`
 
-6. paste path when asked for the path
+6. paste path when asked for the path and hit enter
 
-7. Visit back and relax for a while. After it's done it will be ready to use and running.
+7. Sit back and relax for a while. After it's done it will be ready to use and running.
 
 
 
